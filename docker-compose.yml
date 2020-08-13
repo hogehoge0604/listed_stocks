@@ -1,0 +1,7 @@
+version: '3.7'
+services:
+  php:
+    image: php:7.4-alpine3.12
+    volumes:
+      - ./bin/Download.php:/Download.php
+    tty: true

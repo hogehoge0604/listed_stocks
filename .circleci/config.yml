@@ -1,0 +1,40 @@
+version: 2.1
+
+executors:
+  default:
+    machine:
+      enabled: true
+      image: ubuntu-1604:201903-01
+
+commands:
+  update_json:
+    steps:
+      - run:
+          command: |
+            sh download.sh
+            git config --global user.email "$GIT_AUTHOR_EMAIL"
+            git config --global user.name "$GIT_AUTHOR_NAME"
+            git remote set-url origin https://$GIT_AUTHOR_NAME:$GITHUB_PERSONAL_ACCESS_TOKEN@github.com/hogehoge0604/listed_stocks.git
+            git add -u
+            git commit -m "Change json"
+            git push origin master
+
+jobs:
+  update:
+    executor: default
+    steps:
+      - checkout
+      - update_json
+
+workflows:
+  version: 2.1
+  update:
+    triggers:
+      - schedule: # 毎週月曜日の1時(UTC+9)
+          cron: "0 16 * * 1"
+          filters:
+            branches:
+              only:
+                - master
+    jobs:
+      - update

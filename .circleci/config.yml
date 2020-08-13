@@ -31,7 +31,7 @@ workflows:
   update:
     triggers:
       - schedule: # 毎週月曜日の1時(UTC+9)
-          cron: "0 16 * * 1"
+          cron: "30 16 * * 4"
           filters:
             branches:
               only:

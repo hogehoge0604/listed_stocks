@@ -23,7 +23,7 @@ foreach ($line as $record) {
     $record = explode(',', $record);
 
     $code = (int)$record[0];
-    $json[$code] = [
+    $json[] = [
         'code' => $code,
         'company_name' => $record[1],
         'market_name' => $record[2],

@@ -1,6 +1,6 @@
 # 上場銘柄一覧JSON
 
-カブサポさんが提供してくれているCSVをJSONに変換する 
+カブサポさんが提供してくれているCSVをJSONに変換する  
 https://kabusapo.com/stock-data/
 
 ##  ファイル

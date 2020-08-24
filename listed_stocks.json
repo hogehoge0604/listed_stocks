@@ -28,6 +28,13 @@
         "nikkei_225": false
     },
     {
+        "code": 1375,
+        "company_name": "(株)雪国まいたけ",
+        "market_name": "",
+        "industry_name": "水産・農林業",
+        "nikkei_225": false
+    },
+    {
         "code": 1376,
         "company_name": "カネコ種苗(株)",
         "market_name": "東証1部",
@@ -3776,6 +3783,13 @@
         "code": 2931,
         "company_name": "(株)ユーグレナ",
         "market_name": "東証1部",
+        "industry_name": "食料品",
+        "nikkei_225": false
+    },
+    {
+        "code": 2932,
+        "company_name": "(株)ＳＴＩフードホールディングス",
+        "market_name": "",
         "industry_name": "食料品",
         "nikkei_225": false
     },
@@ -8346,13 +8360,27 @@
     {
         "code": 4056,
         "company_name": "ニューラルポケット(株)",
-        "market_name": "",
+        "market_name": "マザーズ",
         "industry_name": "情報・通信",
         "nikkei_225": false
     },
     {
         "code": 4057,
         "company_name": "(株)インターファクトリー",
+        "market_name": "",
+        "industry_name": "情報・通信",
+        "nikkei_225": false
+    },
+    {
+        "code": 4058,
+        "company_name": "トヨクモ(株)",
+        "market_name": "",
+        "industry_name": "情報・通信",
+        "nikkei_225": false
+    },
+    {
+        "code": 4059,
+        "company_name": "(株)まぐまぐ",
         "market_name": "",
         "industry_name": "情報・通信",
         "nikkei_225": false
@@ -11368,9 +11396,23 @@
         "nikkei_225": false
     },
     {
+        "code": 4930,
+        "company_name": "(株)グラフィコ",
+        "market_name": "",
+        "industry_name": "化学",
+        "nikkei_225": false
+    },
+    {
         "code": 4931,
         "company_name": "新日本製薬(株)",
         "market_name": "マザーズ",
+        "industry_name": "化学",
+        "nikkei_225": false
+    },
+    {
+        "code": 4933,
+        "company_name": "(株)Ｉ−ｎｅ",
+        "market_name": "",
         "industry_name": "化学",
         "nikkei_225": false
     },

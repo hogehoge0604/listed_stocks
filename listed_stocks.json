@@ -3878,6 +3878,13 @@
         "nikkei_225": false
     },
     {
+        "code": 2987,
+        "company_name": "(株)タスキ",
+        "market_name": "",
+        "industry_name": "不動産業",
+        "nikkei_225": false
+    },
+    {
         "code": 3001,
         "company_name": "片倉工業(株)",
         "market_name": "東証1部",
@@ -4588,13 +4595,6 @@
         "code": 3169,
         "company_name": "(株)ミサワ",
         "market_name": "東証1部",
-        "industry_name": "小売業",
-        "nikkei_225": false
-    },
-    {
-        "code": 3171,
-        "company_name": "マックスバリュ九州(株)",
-        "market_name": "東証JQS",
         "industry_name": "小売業",
         "nikkei_225": false
     },
@@ -8218,6 +8218,20 @@
         "nikkei_225": false
     },
     {
+        "code": 4011,
+        "company_name": "(株)ヘッドウォータース",
+        "market_name": "",
+        "industry_name": "情報・通信",
+        "nikkei_225": false
+    },
+    {
+        "code": 4012,
+        "company_name": "(株)アクシス",
+        "market_name": "",
+        "industry_name": "情報・通信",
+        "nikkei_225": false
+    },
+    {
         "code": 4021,
         "company_name": "日産化学(株)",
         "market_name": "東証1部",
@@ -8367,7 +8381,7 @@
     {
         "code": 4057,
         "company_name": "(株)インターファクトリー",
-        "market_name": "",
+        "market_name": "マザーズ",
         "industry_name": "情報・通信",
         "nikkei_225": false
     },
@@ -8381,6 +8395,13 @@
     {
         "code": 4059,
         "company_name": "(株)まぐまぐ",
+        "market_name": "",
+        "industry_name": "情報・通信",
+        "nikkei_225": false
+    },
+    {
+        "code": 4060,
+        "company_name": "ｒａｋｕｍｏ(株)",
         "market_name": "",
         "industry_name": "情報・通信",
         "nikkei_225": false
@@ -13629,13 +13650,6 @@
         "nikkei_225": false
     },
     {
-        "code": 6065,
-        "company_name": "ライクキッズ(株)",
-        "market_name": "東証1部",
-        "industry_name": "サービス業",
-        "nikkei_225": false
-    },
-    {
         "code": 6067,
         "company_name": "インパクトホールディングス(株)",
         "market_name": "マザーズ",
@@ -16068,6 +16082,13 @@
         "code": 6599,
         "company_name": "エブレン(株)",
         "market_name": "東証JQS",
+        "industry_name": "電気機器",
+        "nikkei_225": false
+    },
+    {
+        "code": 6600,
+        "company_name": "キオクシアホールディングス(株)",
+        "market_name": "",
         "industry_name": "電気機器",
         "nikkei_225": false
     },

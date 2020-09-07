@@ -6518,7 +6518,7 @@
     },
     {
         "code": 3627,
-        "company_name": "ネオス(株)",
+        "company_name": "ＪＮＳホールディングス(株)",
         "market_name": "東証1部",
         "industry_name": "情報・通信",
         "nikkei_225": false
@@ -7183,7 +7183,7 @@
     },
     {
         "code": 3788,
-        "company_name": "ＧＭＯクラウド(株)",
+        "company_name": "ＧＭＯグローバルサイン・ホールディングス(株)",
         "market_name": "東証1部",
         "industry_name": "情報・通信",
         "nikkei_225": false
@@ -18914,6 +18914,27 @@
         "nikkei_225": false
     },
     {
+        "code": 7337,
+        "company_name": "(株)ひろぎんホールディングス",
+        "market_name": "",
+        "industry_name": "銀行業",
+        "nikkei_225": false
+    },
+    {
+        "code": 7338,
+        "company_name": "インヴァスト(株)",
+        "market_name": "",
+        "industry_name": "証券業",
+        "nikkei_225": false
+    },
+    {
+        "code": 7339,
+        "company_name": "アイペットホールディングス(株)",
+        "market_name": "",
+        "industry_name": "保険業",
+        "nikkei_225": false
+    },
+    {
         "code": 7351,
         "company_name": "(株)グッドパッチ",
         "market_name": "マザーズ",
@@ -18931,6 +18952,13 @@
         "code": 7353,
         "company_name": "ＫＩＹＯラーニング(株)",
         "market_name": "マザーズ",
+        "industry_name": "サービス業",
+        "nikkei_225": false
+    },
+    {
+        "code": 7354,
+        "company_name": "(株)ダイレクトマーケティングミックス",
+        "market_name": "",
         "industry_name": "サービス業",
         "nikkei_225": false
     },
@@ -23462,13 +23490,6 @@
         "market_name": "東証1部",
         "industry_name": "保険業",
         "nikkei_225": true
-    },
-    {
-        "code": 8729,
-        "company_name": "ソニーフィナンシャルホールディングス(株)",
-        "market_name": "東証1部",
-        "industry_name": "保険業",
-        "nikkei_225": false
     },
     {
         "code": 8732,

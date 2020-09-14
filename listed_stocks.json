@@ -8232,6 +8232,13 @@
         "nikkei_225": false
     },
     {
+        "code": 4013,
+        "company_name": "日通システム(株)",
+        "market_name": "",
+        "industry_name": "情報・通信",
+        "nikkei_225": false
+    },
+    {
         "code": 4021,
         "company_name": "日産化学(株)",
         "market_name": "東証1部",
@@ -17789,7 +17796,7 @@
     {
         "code": 7038,
         "company_name": "フロンティア・マネジメント(株)",
-        "market_name": "マザーズ",
+        "market_name": "東証1部",
         "industry_name": "サービス業",
         "nikkei_225": false
     },
@@ -17894,7 +17901,7 @@
     {
         "code": 7059,
         "company_name": "(株)コプロ・ホールディングス",
-        "market_name": "マザーズ",
+        "market_name": "東証1部",
         "industry_name": "サービス業",
         "nikkei_225": false
     },
@@ -20101,6 +20108,13 @@
         "company_name": "(株)コパ・コーポレーション",
         "market_name": "マザーズ",
         "industry_name": "卸売業",
+        "nikkei_225": false
+    },
+    {
+        "code": 7692,
+        "company_name": "(株)アースインフィニティ",
+        "market_name": "",
+        "industry_name": "小売業",
         "nikkei_225": false
     },
     {

@@ -30,7 +30,7 @@
     {
         "code": 1375,
         "company_name": "(株)雪国まいたけ",
-        "market_name": "",
+        "market_name": "東証1部",
         "industry_name": "水産・農林業",
         "nikkei_225": false
     },
@@ -13827,7 +13827,7 @@
     {
         "code": 6095,
         "company_name": "メドピア(株)",
-        "market_name": "マザーズ",
+        "market_name": "東証1部",
         "industry_name": "サービス業",
         "nikkei_225": false
     },
@@ -24999,7 +24999,7 @@
     {
         "code": 9279,
         "company_name": "(株)ギフト",
-        "market_name": "マザーズ",
+        "market_name": "東証1部",
         "industry_name": "小売業",
         "nikkei_225": false
     },

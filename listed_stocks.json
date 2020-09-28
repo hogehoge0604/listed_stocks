@@ -2835,13 +2835,6 @@
         "nikkei_225": false
     },
     {
-        "code": 2608,
-        "company_name": "ボーソー油脂(株)",
-        "market_name": "東証2部",
-        "industry_name": "食料品",
-        "nikkei_225": false
-    },
-    {
         "code": 2612,
         "company_name": "かどや製油(株)",
         "market_name": "東証1部",
@@ -3789,7 +3782,7 @@
     {
         "code": 2932,
         "company_name": "(株)ＳＴＩフードホールディングス",
-        "market_name": "",
+        "market_name": "東証2部",
         "industry_name": "食料品",
         "nikkei_225": false
     },
@@ -8239,6 +8232,13 @@
         "nikkei_225": false
     },
     {
+        "code": 4014,
+        "company_name": "(株)カラダノート",
+        "market_name": "",
+        "industry_name": "情報・通信",
+        "nikkei_225": false
+    },
+    {
         "code": 4021,
         "company_name": "日産化学(株)",
         "market_name": "東証1部",
@@ -8395,21 +8395,21 @@
     {
         "code": 4058,
         "company_name": "トヨクモ(株)",
-        "market_name": "",
+        "market_name": "マザーズ",
         "industry_name": "情報・通信",
         "nikkei_225": false
     },
     {
         "code": 4059,
         "company_name": "(株)まぐまぐ",
-        "market_name": "",
+        "market_name": "東証JQS",
         "industry_name": "情報・通信",
         "nikkei_225": false
     },
     {
         "code": 4060,
         "company_name": "ｒａｋｕｍｏ(株)",
-        "market_name": "",
+        "market_name": "マザーズ",
         "industry_name": "情報・通信",
         "nikkei_225": false
     },
@@ -11426,7 +11426,7 @@
     {
         "code": 4930,
         "company_name": "(株)グラフィコ",
-        "market_name": "",
+        "market_name": "東証JQS",
         "industry_name": "化学",
         "nikkei_225": false
     },
@@ -11440,6 +11440,13 @@
     {
         "code": 4933,
         "company_name": "(株)Ｉ−ｎｅ",
+        "market_name": "マザーズ",
+        "industry_name": "化学",
+        "nikkei_225": false
+    },
+    {
+        "code": 4934,
+        "company_name": "プレミアアンチエイジング(株)",
         "market_name": "",
         "industry_name": "化学",
         "nikkei_225": false
@@ -18140,6 +18147,13 @@
         "code": 7095,
         "company_name": "(株)Ｍａｃｂｅｅ　Ｐｌａｎｅｔ",
         "market_name": "マザーズ",
+        "industry_name": "サービス業",
+        "nikkei_225": false
+    },
+    {
+        "code": 7097,
+        "company_name": "(株)さくらさくプラス",
+        "market_name": "",
         "industry_name": "サービス業",
         "nikkei_225": false
     },
